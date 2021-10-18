@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9913f51c-f870-41fe-a7f5-d13bdd119a44" name="Changes" comment="solved problems in Olympiads Lvl2 Quiz (https://dmoj.ca/contest/olylvl2)">
-      <change afterPath="$PROJECT_DIR$/dmoj/set/set.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dmoj/vmss15c1p3/vmss15c1p3.cpp" afterDir="false" />
+    <list default="true" id="9913f51c-f870-41fe-a7f5-d13bdd119a44" name="Changes" comment="solved problems in Olympiads Lvl3 Quiz (https://dmoj.ca/contest/olylvl3)">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +43,8 @@
       <option name="presentableId" value="Default" />
       <updated>1634460989346</updated>
       <workItem from="1634460991332" duration="1598000" />
+      <workItem from="1634527928996" duration="42000" />
+      <workItem from="1634539889787" duration="3000" />
     </task>
     <task id="LOCAL-00001" summary="solved problems in Olympiads Lvl2 Quiz (https://dmoj.ca/contest/olylvl2)">
       <created>1634461022436</created>
@@ -52,7 +53,14 @@
       <option name="project" value="LOCAL" />
       <updated>1634461022436</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="solved problems in Olympiads Lvl3 Quiz (https://dmoj.ca/contest/olylvl3)">
+      <created>1634527954236</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1634527954236</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -68,9 +76,11 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="solved problems in Olympiads Lvl2 Quiz (https://dmoj.ca/contest/olylvl2)" />
-    <option name="LAST_COMMIT_MESSAGE" value="solved problems in Olympiads Lvl2 Quiz (https://dmoj.ca/contest/olylvl2)" />
+    <MESSAGE value="solved problems in Olympiads Lvl3 Quiz (https://dmoj.ca/contest/olylvl3)" />
+    <option name="LAST_COMMIT_MESSAGE" value="solved problems in Olympiads Lvl3 Quiz (https://dmoj.ca/contest/olylvl3)" />
   </component>
 </project>
