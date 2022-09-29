@@ -1,0 +1,1 @@
+(R:=range(int(input())),C:={0,1,4},[print(str(i)+'*'[{i-2,i+2}<C:C.update(R[i*i::i])])for i in R if not{i}<C])

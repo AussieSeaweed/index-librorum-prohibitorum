@@ -1,0 +1,1 @@
+print("Yes" if int("0x" + input(), 16) + int("0x" + input(), 16) > 1061109567 else "No")

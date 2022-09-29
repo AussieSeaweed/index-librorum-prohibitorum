@@ -1,0 +1,1 @@
+puts eval(gets.sub("True", "true").sub("False", "false")).to_s.sub("true","True").sub("false", "False")

@@ -1,0 +1,1 @@
+print "Your total Calorie count is " + str((461, 431, 420, 0)[input()-1] + (100, 57, 70, 0)[input()-1] + (130, 160, 118, 0)[input()-1] + (167, 266, 75, 0)[input()-1]) + "."

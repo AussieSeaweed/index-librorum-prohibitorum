@@ -1,0 +1,1 @@
+print((lambda x: (x[len(x) // 2 - 1] + x[len(x) // 2]) // 2 + ((x[len(x) // 2 - 1] + x[len(x) // 2]) & 1) if len(x) % 2 == 0 else x[len(x) // 2])(sorted([int(input()) for i in range(int(input()))])))

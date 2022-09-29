@@ -1,0 +1,1 @@
+print eval(raw_input()+raw_input()+raw_input())

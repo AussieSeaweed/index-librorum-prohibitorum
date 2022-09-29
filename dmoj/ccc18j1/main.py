@@ -1,0 +1,1 @@
+print("ignore" if (lambda a, b, c, d: (a == 8 or a == 9) and b == c and (d == 8 or d == 9))(int(input()), int(input()), int(input()), int(input()))else "answer")

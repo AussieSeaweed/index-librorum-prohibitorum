@@ -1,0 +1,1 @@
+print "The 1-3-sum is " + str(91 + input() + input() * 3 + input())
