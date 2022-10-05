@@ -1,2 +1,2 @@
-# index-librorum-prohibitorum
+# Index Librorum Prohibitorum
 Competitive Programming Solutions
