@@ -9,7 +9,7 @@ module top_module (
 	output reg [3:0] out
 );
 
-	always@(*)
+	always @(*)
 		case (sel)
 			3'b000:
 				out = data0;

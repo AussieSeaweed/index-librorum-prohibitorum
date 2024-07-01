@@ -22,7 +22,7 @@ module top_module (
 			2'b11:
 				q = c;
 			default:
-				q = 0;
+				$fatal;
 		endcase
 	end
 

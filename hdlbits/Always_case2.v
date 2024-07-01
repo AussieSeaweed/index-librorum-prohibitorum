@@ -14,7 +14,7 @@ module top_module (
 			4'b1000:
 				pos = 2'd3;
 			default:
-				pos = 2'd3;
+				$fatal;
 		endcase
 
 endmodule
