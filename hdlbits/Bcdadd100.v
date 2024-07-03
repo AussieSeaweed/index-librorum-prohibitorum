@@ -12,7 +12,7 @@ module top_module (
 	genvar i;
 
 	generate
-		for (i = 1; i < 100; i = i + 1) begin : File
+		for (i = 1; i < 100; i = i + 1) begin : addition
 			localparam integer j = 4 * i;
 			localparam integer k = j + 3;
 

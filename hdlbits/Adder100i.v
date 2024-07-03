@@ -10,7 +10,7 @@ module top_module (
 	genvar i;
 
 	generate
-		for (i = 1; i < 100; i = i + 1) begin : File
+		for (i = 1; i < 100; i = i + 1) begin : full_addition
 			full_adder fa(a[i], b[i], cout[i - 1], cout[i], sum[i]);
 		end
 	endgenerate
